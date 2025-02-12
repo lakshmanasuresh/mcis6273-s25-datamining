@@ -2,6 +2,6 @@
 
 This repository is for the MCIS6273 Data Mining course.
 
-Zotero Username:LakshmanaSureshJada
+Zotero Username:Lakshmana Suresh Jada
 
-GitHub Repository: https://github.com/lakshmanaSureshJada/mcis6273-s25-datamining
+GitHub Repository: https://github.com/lakshmanaSuresh/mcis6273-s25-datamining
